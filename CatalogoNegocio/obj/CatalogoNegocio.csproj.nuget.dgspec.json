@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\CatalogoNegocio\\CatalogoNegocio.csproj": {}
+  },
+  "projects": {
+    "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\CatalogoNegocio\\CatalogoNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\CatalogoNegocio\\CatalogoNegocio.csproj",
+        "projectName": "CatalogoNegocio",
+        "projectPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\CatalogoNegocio\\CatalogoNegocio.csproj",
+        "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+        "outputPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\CatalogoNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\Catalogo.csproj": {
+                "projectPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\Catalogo.csproj"
+              },
+              "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\Dominio.csproj": {
+                "projectPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\Catalogo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\Catalogo.csproj",
+        "projectName": "Catalogo",
+        "projectPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\Catalogo.csproj",
+        "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+        "outputPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Catalogo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+        "outputPath": "E:\\tercerCuatrimestre\\01_inicioProgra3PrimerCuatrimestre\\ProyectoVS\\Catalogo\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
