@@ -29,7 +29,7 @@ namespace Negocio2
             try
             {
                 conexion.Open();
-            lector = comando.ExecuteReader();
+                lector = comando.ExecuteReader();
             while (lector.Read())
             {
                 Articulo aux = new Articulo();
