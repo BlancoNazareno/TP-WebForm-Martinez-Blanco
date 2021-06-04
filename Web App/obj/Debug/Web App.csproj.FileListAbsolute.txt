@@ -146,3 +146,83 @@ C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP WebForm 
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP WebForm Martinez Blanco\Web App\obj\Debug\Web App.csproj.CopyComplete
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP WebForm Martinez Blanco\Web App\obj\Debug\Web App.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP WebForm Martinez Blanco\Web App\obj\Debug\Web App.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.dll.config
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csc.exe
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csc.exe.config
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csc.rsp
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csi.exe
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csi.exe.config
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\csi.rsp
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.AppContext.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Collections.Immutable.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Console.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Globalization.Calendars.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.IO.Compression.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.IO.FileSystem.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Net.Http.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Net.Sockets.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Reflection.Metadata.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.ValueTuple.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Xml.XPath.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\vbc.exe
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\vbc.exe.config
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\vbc.rsp
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\VBCSCompiler.exe
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\roslyn\VBCSCompiler.exe.config
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Antlr3.Runtime.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\AspNet.ScriptManager.bootstrap.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\AspNet.ScriptManager.jQuery.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.ScriptManager.WebForms.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.Web.Infrastructure.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Newtonsoft.Json.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\System.Web.Optimization.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\WebGrease.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\System.Web.Optimization.xml
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Newtonsoft.Json.xml
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Antlr3.Runtime.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csproj.CopyComplete
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\es\System.Web.Optimization.resources.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio2.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.pdb

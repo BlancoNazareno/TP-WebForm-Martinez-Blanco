@@ -1,0 +1,6 @@
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\bin\Debug\Dominio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\bin\Debug\Dominio2.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.pdb

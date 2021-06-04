@@ -130,16 +130,6 @@
             "rid": "win"
           }
         }
-      },
-      "Dominio/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Dominio.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Dominio.dll": {}
-        }
       }
     }
   },
@@ -456,33 +446,27 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Dominio/1.0.0": {
-      "type": "project",
-      "path": "../Dominio/Dominio.csproj",
-      "msbuildProject": "../Dominio/Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Dominio >= 1.0.0",
       "System.Data.SqlClient >= 4.8.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nazab\\.nuget\\packages\\": {}
+    "C:\\Users\\yonni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\CatalogoNegocio\\Negocio.csproj",
+      "projectUniqueName": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\CatalogoNegocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\CatalogoNegocio\\Negocio.csproj",
-      "packagesPath": "C:\\Users\\nazab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\CatalogoNegocio\\obj\\",
+      "projectPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\CatalogoNegocio\\Negocio.csproj",
+      "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+      "outputPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\CatalogoNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nazab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -495,11 +479,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -532,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

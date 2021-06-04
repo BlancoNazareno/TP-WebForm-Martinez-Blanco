@@ -28,3 +28,18 @@ C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Ca
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\CatalogoNegocio\obj\Debug\net5.0\Negocio.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\CatalogoNegocio\obj\Debug\net5.0\ref\Negocio.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\CatalogoNegocio\obj\Debug\net5.0\Negocio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\Negocio.deps.json
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\Negocio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\ref\Negocio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\Negocio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\bin\Debug\net5.0\Dominio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\ref\Negocio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\CatalogoNegocio\obj\Debug\net5.0\Negocio.pdb

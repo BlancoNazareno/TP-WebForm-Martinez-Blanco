@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nazab\\.nuget\\packages\\": {}
+    "C:\\Users\\yonni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\nazab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\obj\\",
+      "projectPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+      "outputPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nazab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

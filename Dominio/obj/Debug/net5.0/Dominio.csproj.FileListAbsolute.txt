@@ -22,3 +22,15 @@ C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Do
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Dominio\obj\Debug\net5.0\Dominio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\bin\Debug\net5.0\Dominio.deps.json
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\bin\Debug\net5.0\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\bin\Debug\net5.0\Dominio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Dominio\obj\Debug\net5.0\Dominio.pdb

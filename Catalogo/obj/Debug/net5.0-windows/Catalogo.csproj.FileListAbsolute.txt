@@ -83,3 +83,36 @@ C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Ca
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Catalogo\obj\Debug\net5.0-windows\ref\Catalogo.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Catalogo\obj\Debug\net5.0-windows\Catalogo.pdb
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\TP-WinForm-Progra_III\Catalogo\obj\Debug\net5.0-windows\Catalogo.genruntimeconfig.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.exe
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.deps.json
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.runtimeconfig.json
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.runtimeconfig.dev.json
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\ref\Catalogo.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Catalogo.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Toolbox.Extensions.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Toolbox.Logger.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Dominio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Negocio.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Negocio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\bin\Debug\net5.0-windows\Dominio.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Agregar.resources
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Form1.resources
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Properties.Resources.resources
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.GenerateResource.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.AssemblyInfoInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.AssemblyInfo.cs
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.CopyComplete
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\ref\Catalogo.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.genruntimeconfig.cache

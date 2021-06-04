@@ -159,30 +159,6 @@
           "lib/net40/Toolbox.Extensions.dll": {},
           "lib/net40/Toolbox.Logger.dll": {}
         }
-      },
-      "Dominio/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Dominio.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Dominio.dll": {}
-        }
-      },
-      "Negocio/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Dominio": "1.0.0",
-          "System.Data.SqlClient": "4.8.2"
-        },
-        "compile": {
-          "bin/placeholder/Negocio.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Negocio.dll": {}
-        }
       }
     }
   },
@@ -545,41 +521,29 @@
         "toolbox.0.2.2.nupkg.sha512",
         "toolbox.nuspec"
       ]
-    },
-    "Dominio/1.0.0": {
-      "type": "project",
-      "path": "../Dominio/Dominio.csproj",
-      "msbuildProject": "../Dominio/Dominio.csproj"
-    },
-    "Negocio/1.0.0": {
-      "type": "project",
-      "path": "../CatalogoNegocio/Negocio.csproj",
-      "msbuildProject": "../CatalogoNegocio/Negocio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Dominio >= 1.0.0",
       "Microsoft.Win32.SystemEvents >= 5.0.0",
-      "Negocio >= 1.0.0",
       "System.Data.SqlClient >= 4.8.2",
       "Toolbox >= 0.2.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nazab\\.nuget\\packages\\": {}
+    "C:\\Users\\yonni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Catalogo\\Catalogo.csproj",
+      "projectUniqueName": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
       "projectName": "Catalogo",
-      "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Catalogo\\Catalogo.csproj",
-      "packagesPath": "C:\\Users\\nazab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Catalogo\\obj\\",
+      "projectPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
+      "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
+      "outputPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nazab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -592,14 +556,7 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {
-            "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\CatalogoNegocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\CatalogoNegocio\\Negocio.csproj"
-            },
-            "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\TP WebForm Martinez Blanco\\Dominio\\Dominio.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -643,7 +600,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -652,7 +609,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Toolbox 0.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"Toolbox 0.2.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "Toolbox",
       "targetGraphs": [
         "net5.0-windows7.0"

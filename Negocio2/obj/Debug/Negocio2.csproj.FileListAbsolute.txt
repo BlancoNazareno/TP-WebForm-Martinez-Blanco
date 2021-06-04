@@ -1,0 +1,9 @@
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.AssemblyReference.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.CoreCompileInputs.cache
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Negocio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Negocio2.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Dominio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Dominio2.pdb
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.CopyComplete
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.dll
+E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.pdb
