@@ -7,3 +7,12 @@ E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.CopyComplete
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.dll
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Negocio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Negocio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Dominio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\bin\Debug\Dominio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csprojAssemblyReference.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.CoreCompileInputs.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.csproj.CopyComplete
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Negocio2\obj\Debug\Negocio2.pdb

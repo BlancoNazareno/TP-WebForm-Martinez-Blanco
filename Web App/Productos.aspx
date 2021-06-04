@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Productos.aspx.cs" Inherits="Web_App.Formulario_web1" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server"> <%--ERROR1--%>
 
     <header>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -25,7 +25,7 @@
 </nav>
         </header>
     <h1>Aqui productos-cambio</h1>
-    <%--<asp:GridView ID="dbgProductos" runat="server"></asp:GridView>--%> <%--algo no le gusto de esto y pincho--%>
+    <asp:GridView ID="dgvProductos" runat="server"></asp:GridView> <%--ERROR1--%>
 
 
 
