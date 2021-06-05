@@ -12,20 +12,17 @@ namespace Web_App
 {
     public partial class Formulario_web1 : System.Web.UI.Page
     {
-        
-       
+
+        public List<Articulo> Lista; /*necesita el public antes*/
         protected void Page_Load(object sender, EventArgs e)
         {
+
             ArticuloNegocio Productos = new ArticuloNegocio();
+            
             
             try
             {
-                if (Productos != null)
-                {
-                    
-                    dgvProductos.DataSource = Productos.listar();
-                    dgvProductos.DataBind();
-                }
+                Lista = Productos.Listar();
             }
             catch (Exception ex)
             {

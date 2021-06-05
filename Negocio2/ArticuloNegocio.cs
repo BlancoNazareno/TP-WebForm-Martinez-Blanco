@@ -12,7 +12,7 @@ namespace Negocio2
 {
     public class ArticuloNegocio
     {
-        public List<Articulo> listar()
+        public List<Articulo> Listar()
         {
 
             SqlConnection conexion = new SqlConnection();
@@ -68,7 +68,7 @@ namespace Negocio2
 
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
 
             finally
@@ -76,7 +76,7 @@ namespace Negocio2
                 conexion.Close();
             }
         }
-        public void agregar(Articulo nuevo)
+        public void Agregar(Articulo nuevo)
         {
 
 
@@ -104,7 +104,7 @@ namespace Negocio2
             }
             catch(Exception ex)
             {
-                throw;
+                throw ex;
             }
             finally
             {
@@ -114,7 +114,7 @@ namespace Negocio2
 
 
 
-        public List<Categoria> listarCategorias()
+        public List<Categoria> ListarCategorias()
         {
             List<Categoria> categoria = new List<Categoria>();
             SqlConnection conexion = new SqlConnection();
@@ -146,14 +146,14 @@ namespace Negocio2
             catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
 
 
             return categoria;
         }
 
-        public List<Marca> listarMarca()
+        public List<Marca> ListarMarca()
         {
             List<Marca> marca = new List<Marca>();
             SqlConnection conexion = new SqlConnection();
@@ -198,7 +198,7 @@ namespace Negocio2
                 conexion.Close();
             }
         }
-        public void modificar(Articulo artic)
+        public void Modificar(Articulo artic)
         {
 
             try
@@ -227,12 +227,12 @@ namespace Negocio2
 
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
             
         }
 
-        public void eliminar(int id)
+        public void Eliminar(int id)
         {
             try
             {
@@ -252,7 +252,7 @@ namespace Negocio2
             catch (Exception ex)
             {
 
-                throw ;
+                throw ex;
             }
 
         }

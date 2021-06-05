@@ -226,3 +226,34 @@ E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.dll
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio2.pdb
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.dll.config
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Web App.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Antlr3.Runtime.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Newtonsoft.Json.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\System.Web.Optimization.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\WebGrease.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Dominio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Negocio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\System.Web.Optimization.xml
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Newtonsoft.Json.xml
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Antlr3.Runtime.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csprojAssemblyReference.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csproj.CoreCompileInputs.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.csproj.CopyComplete
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Web App\obj\Debug\Web App.pdb
