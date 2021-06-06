@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj": {}
+    "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj": {}
   },
   "projects": {
-    "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj": {
+    "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
+        "projectUniqueName": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
         "projectName": "Catalogo",
-        "projectPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
-        "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
-        "outputPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\obj\\",
+        "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
+        "packagesPath": "C:\\Users\\nazab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nazab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -40,8 +40,9 @@
                             <div class="card-body">
                             <h5 class="card-title"><% = item.Nombre %></h5>
                             <p class="card-text"><% = item.Descripcion %></p>
-                            <a href="#" class="btn btn-primary">Agregar al carrito</a> <%--con este boton deberiamos poder añadir al carro las cosas (agregar funcionalidad)--%>
-                            </div>
+                            <a href="Carrito.aspx?ID= <%= item.ID %>"  class="btn btn-primary">Agregar al carrito</a> <%--con este boton deberiamos poder añadir al carro las cosas (agregar funcionalidad)--%>
+                          <%-- <asp:Button Text:"Agregar al carrito" ID="btnAgregar" OnClick="btnAgregar_click" runat="server" /> --%>
+                                </div>
                         </div>
                      </div>
                 <%} %>

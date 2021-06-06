@@ -26,5 +26,8 @@
 </nav>
     </header>
     <h1>Aqui carrito-cambio</h1>
+
+    <asp:Label Text ="NombreProducto" ID="lblNombreProducto" runat="server" />
+   
 </body>
 </asp:Content>

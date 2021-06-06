@@ -531,19 +531,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yonni\\.nuget\\packages\\": {}
+    "C:\\Users\\nazab\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
+      "projectUniqueName": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
       "projectName": "Catalogo",
-      "projectPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
-      "packagesPath": "C:\\Users\\yonni\\.nuget\\packages\\",
-      "outputPath": "E:\\tercerCuatrimestre\\TP_con_NAZA\\TP-WebForm-Martinez-Blanco\\Catalogo\\obj\\",
+      "projectPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\Catalogo.csproj",
+      "packagesPath": "C:\\Users\\nazab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nazab\\Desktop\\UTN\\Programación III\\Progra2021\\Repos_GitHub\\WebForm\\TP-WebForm-Martinez-Blanco\\Catalogo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yonni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nazab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -600,7 +600,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -609,7 +609,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Toolbox 0.2.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Toolbox 0.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "Toolbox",
       "targetGraphs": [
         "net5.0-windows7.0"

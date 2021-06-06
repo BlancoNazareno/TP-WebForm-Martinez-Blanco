@@ -10,3 +10,9 @@ C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.csproj.CoreCompileInputs.cache
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.dll
 C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\bin\Debug\Dominio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\bin\Debug\Dominio2.pdb
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.csprojAssemblyReference.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.csproj.CoreCompileInputs.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Dominio2\obj\Debug\Dominio2.pdb

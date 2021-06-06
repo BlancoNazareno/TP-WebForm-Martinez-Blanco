@@ -11,7 +11,8 @@ namespace Web_App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            lblError.Text = Session["Error"] == null ? "No hay error" : (string)Session["Error"];   /*uso de operador ternario para validar el null, y, en todo caso
+                                                                                                     usar el ex contenido en la variable Error del session*/ 
         }
     }
 }
