@@ -4,29 +4,19 @@
     <!DOCTYPE html>
 
 <%--<html lang="en">--%>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="Inicio.aspx">Home </a> <%--aca va el nombre del head o eso de la pag--%>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-   </button> <%--checkear por que el boton no es responde cuando se achica la pantalla--%>
-  <div class="collapse navbar-collapse" id="navbarNavHeader">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <%--<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>--%>
-          <%--<a class="nav-link" href="About.aspx">About.aspx</a> --%><%--esto en las lineas de abajo para alinear lo que falta--%>
-          <a class="nav-link" href="Productos.aspx">Productos</a><%-- productios debe llevar a una pestaña con el producto seleccionado para ver en detalle el producto--%>
-          <%--tambien debera ofrecer para agregar el producto al carrito--%>
-      </li>
-      <li class="nav-item">
-          <%--debera ver en otra pesaña el producto, ya incluido en el carro--%>
-          <a class="nav-link" href="Carrito.aspx">Carrito</a> <%--posicionarlo en otro sector de la pag en lo posible por tema estetico--%>
-      </li>
-    </ul>
-  </div>
 
-
-</nav>
     <h1>Aqui inicio-Cambio</h1>
+
+    <%--ERROR 2: Revisar los siguientes errores:
+    La carga de Productos.aspx es correcta, pero cuando se da click en "Agregar al carrito", direcciona a Carrito.aspx, pero no muestra la info del producto
+    Sólo muestra el botón Eliminar
+
+    ERROR 3: En primer momento, aparecía un error que indicaba que el btnEliminar tenía que estar entre etiquetas de Form (Carrito.aspx, línea 46), haciendo esto, compila y permite dar click en el botón Eliminar, pero,
+    si se selecciona otro artículo en el catálogo con el botón "Agregar al carrito", lanza un error que indica que sólo se puede haber 1 elemento de tipo Form.--%>
+
+    <%--ERROR 4: Una vez que se agregó en Carrito.aspx.cs para que actualice la lista del session, después de eliminar un artículo, tira el error:
+    "Object reference not set to an instance of an object.' El cuial indica que el valor buscado en X es null (Carrito.aspx.cs, línea 50)--%>
+
 
 <%--</html>--%>
 </asp:Content>

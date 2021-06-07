@@ -1,33 +1,56 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Carrito.aspx.cs" Inherits="Web_App.Formulario_web11" %>
+﻿<%@ Page EnableEventValidation="true" Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Carrito.aspx.cs" Inherits="Web_App.Formulario_web11" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <%--aca toda la parte visual del carro--%>
     
-<body>
+<%--<body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="Inicio.aspx">Home </a> <%--aca va el nombre del head o eso de la pag--%>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button> <%--checkear por que el boton no es responsi cuando se achica la pantalla--%>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <%--<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>--%>
-          <%--<a class="nav-link" href="About.aspx">About.aspx</a> --%><%--esto en las lineas de abajo para alinear lo que falta--%>
-          <a class="nav-link" href="Productos.aspx">Productos</a><%-- productios debe llevar a una pestaña con el producto seleccionado para ver en detalle el producto--%>
-          <%--tambien debera ofrecer para agregar el producto al carrito--%>
-      </li>
-      <li class="nav-item">
-          <%--debera ver en otra pesaña el producto, ya incluido en el carro--%>
-          <a class="nav-link" href="Carrito.aspx">Carrito</a> <%--posicionarlo en otro sector de la pag en lo posible por tema estetico--%>
-      </li>
-    </ul>
-  </div>
-</nav>
+
     </header>
     <h1>Aqui carrito-cambio</h1>
 
     <asp:Label Text ="NombreProducto" ID="lblNombreProducto" runat="server" />
    
-</body>
+</body>--%>
+
+
+
+       <%-- Esto reemplaza el foreach. Vean que cambia la forma de pasar el argumento a cada tag.
+            En este caso se usa el numeral (#) y la función Eval que recibe por parámetro como string
+            el nombre de la property de tu objeto. El repeater va a iterar lo que esté dentro de la colección
+             que le asignamos en el LOAD. Se lo asignamos directamente por ID, en este caso, repetidor.--%>
+        <%--        <asp:Repeater runat="server" ID="repetidor">
+            <ItemTemplate>
+                <div class="card">
+                    <img src="<%#Eval("UrlImagen") %>" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title"><%#Eval("Nombre")%></h5>
+                        <p class="card-text"><%#Eval("Descripcion")%></p>
+                    </div>
+                    <a class="btn btn-primary" href="PokemonDetail.aspx?idpkm=<%#Eval("Id")%>">Seleccionar</a>
+                    <asp:Button ID="btnArgumento" CssClass="btn btn-primary" Text="Argumento to Back" CommandArgument='<%#Eval("Id")%>' CommandName="idPokemon" runat="server" OnClick="btnArgumento_Click" />
+                </div>
+            </ItemTemplate>
+        </asp:Repeater>--%>
+
+
+    <table class="table">
+        
+        <%-- el repetidor actúa a modo de foreach --%>
+        <asp:Repeater runat="server" ID="Repetidor">
+            <ItemTemplate>
+                <tr>
+                    <td><%#Eval("ID")%></td>               <%--  ERROR2 /*no está llegando, ni mostrando la info del artículo*/--%>
+                    <td>
+                      <form id="from" runat="server">  <%--se añadieron los form tag para que compile el btnEliminar--%>
+                            <%--<asp:Button ID="btnEliminar" Text="Eliminar"  CssClass="btn btn-primary" CommandArgument='<%#Eval("ID")%>' CommandName="IDProducto" runat="server" OnClick="btnEliminar_Click" /> --%>
+                            <asp:Button Text="Eliminar" CssClass="btn btn-primary" ID="btnEliminar2" OnClick="btnEliminar2_Click" CommanArgument='<%#Eval("ID")%>'   runat="server" />                      
+                      </form>     
+                    </td>
+                </tr>
+            </ItemTemplate>
+        </asp:Repeater>
+    </table>
+
+
+
 </asp:Content>
