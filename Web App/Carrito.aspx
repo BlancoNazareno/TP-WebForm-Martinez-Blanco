@@ -26,8 +26,11 @@
 </nav>
     </header>
     <h1>Aqui carrito-cambio</h1>
+    <%foreach ( Dominio2.Articulo item in listado2) { %>
+    <p> <% = item.Nombre %> </p>
+    <% } %>
 
-    <asp:Label Text ="NombreProducto" ID="lblNombreProducto" runat="server" />
+    <%--<asp:Label Text ="NombreProducto" ID="lblNombreProducto" runat="server" />--%>
    
 </body>
 </asp:Content>
