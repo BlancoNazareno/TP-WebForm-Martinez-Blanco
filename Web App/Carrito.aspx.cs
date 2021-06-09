@@ -26,27 +26,68 @@ namespace Web_App
                 listado2.Add(art);
                 Session[Session.SessionID + "List"] = listado2;
             }
-            else {
+            if (Session[Session.SessionID + "List"] == null)
+            {
                 listado2.Add(art);
                 Session[Session.SessionID + "List"] = listado2;
             }
         }
 
-
-        public void CheckList ()
+        public bool CheckRepetido(List<Articulo> ListaCheckRepetido, int x)
         {
+            foreach (Articulo item in ListaCheckRepetido)
+            {
+                if (item.ID == x)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public void CheckList()
+        {
+            bool primero = true;
             var ID = Convert.ToInt32(Request.QueryString["ID"]);
-            if (ID!=0)
+            if (ID != 0)
             {
 
                 /*como se operará con IDs, se castea el string ID*/
                 listado = (List<Articulo>)Session["Productos"];      /*listado tendrá la lista de artículos, alojada en Productos, del session*/
-                Articulo seleccionado = listado.Find(x => x.ID == ID);             /*se toma el ID para buscar, y el artículo se guarda en seleccionado*/
-                AgregarLista(seleccionado);                                                             /*se pone el nombre del producto en el label específico*/
+                listado2 = (List<Articulo>)Session[Session.SessionID + "List"];
+
+
+                if ((listado2 == null) && (primero == true))
+                {
+                    Articulo seleccionado = listado.Find(x => x.ID == ID);             /*se toma el ID para buscar, y el artículo se guarda en seleccionado*/
+                    AgregarLista(seleccionado);
+                    primero = false;
+                }
+
+                if ((listado2 !=null)  && (primero==false) && ((!(CheckRepetido(listado2, ID)))))
+                {
+                    Articulo seleccionado = listado.Find(x => x.ID == ID);             /*se toma el ID para buscar, y el artículo se guarda en seleccionado*/
+                    AgregarLista(seleccionado);
+                }
+
+               
+                //if (listado2 != null)
+                //{
+                //    if (!(CheckRepetido(listado2, ID)) /*&& primero*/)                  /*  -> revisa que el ID del artículo no exista ya en la lista, si existe, lo ignora y lo no suma nuevamente*/
+                //    {
+                //        Articulo seleccionado = listado.Find(x => x.ID == ID);             /*se toma el ID para buscar, y el artículo se guarda en seleccionado*/
+                //        AgregarLista(seleccionado);                                                             /*se pone el nombre del producto en el label específico*/
+                //        //primero = false;
+                //    }
+                //}
+
             }
-            else {
-                
-                if (Session[Session.SessionID + "List"] != null) {
+            else
+            {
+
+                if (Session[Session.SessionID + "List"] != null)
+                {
                     listado2 = (List<Articulo>)Session[Session.SessionID + "List"];
                 }
             }
