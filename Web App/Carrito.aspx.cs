@@ -12,9 +12,10 @@ namespace Web_App
     {
         public List<Articulo> listado = new List<Articulo>();
         public List<Articulo> listado2 = new List<Articulo>();
+       
         protected void Page_Load(object sender, EventArgs e)
         {
-            Lavacalola();
+            CheckList();
         }
 
         public void AgregarLista (Articulo art)
@@ -32,7 +33,7 @@ namespace Web_App
         }
 
 
-        public void Lavacalola ()
+        public void CheckList ()
         {
             var ID = Convert.ToInt32(Request.QueryString["ID"]);
             if (ID!=0)
@@ -49,6 +50,15 @@ namespace Web_App
                     listado2 = (List<Articulo>)Session[Session.SessionID + "List"];
                 }
             }
+        }
+
+
+        /*No hace falta un check, porque si puede ingresar a Eliminar, es porque ya se creo primaramente la lista. */
+        public void EliminarItem(Articulo art)
+        {
+            listado2 = (List<Articulo>)Session[Session.SessionID + "List"];  
+            listado2.Remove(art);
+            Session[Session.SessionID + "List"] = listado2;
         }
 
 
