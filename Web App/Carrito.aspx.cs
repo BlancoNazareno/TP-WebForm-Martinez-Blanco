@@ -59,6 +59,7 @@ namespace Web_App
             listado2 = (List<Articulo>)Session[Session.SessionID + "List"];  
             listado2.Remove(art);
             Session[Session.SessionID + "List"] = listado2;
+
         }
 
 

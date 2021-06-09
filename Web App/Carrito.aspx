@@ -75,14 +75,22 @@
                        <input type="number" id="Cantidad" name="Cantidad" min="1" value="1">
                     </form>  
                 </td>
-                <td> <a <%--href="Carrito.aspx?ID= <%= item.ID %>"--%> class="btn btn-primary">Eliminar ítem</a></td>
+                <td>
+                 <a <%--href="Carrito.aspx?ID= <%= item.ID %>"--%> class="btn btn-primary">Eliminar ítem</a>
+                   <%-- <asp:Button runat="server" ID="btnEliminar" CssClass="btn btn-primary" Text="Eliminar Item" OnClick="EliminarItem(<%=item.%>)"/>--%>
+                     <%--<asp:Button CommandArgument=<%item.ID%>runat="server" ID="btnEliminar" CssClass="btn btn-primary" Text="Eliminar Item" OnClick="EliminarItem(<%=item.%>)"/>--%>
+                </td>
+
             </tr>
 
 
 
             <% } %>
         </table>
-    </div>
+ </div>
+
+ 
+
 
 
 </asp:Content>
