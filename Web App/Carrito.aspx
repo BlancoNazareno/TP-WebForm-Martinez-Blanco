@@ -60,7 +60,7 @@
                 <td>Cantidad</td>
                 <td>Acción</td>
             </tr>
-            <%foreach (Dominio2.Articulo item in listado2)
+            <%foreach (Dominio2.Articulo item in ListaCarrito)
                 { %>
 
             <tr>
@@ -76,7 +76,8 @@
                     </form>  
                 </td>
                 <td>
-                 <a <%--href="Carrito.aspx?ID= <%= item.ID %>"--%> class="btn btn-primary">Eliminar ítem</a>
+                 <a href="Carrito.aspx?ID= <%= item.ID.ToString() %>&productoRepetido=  <%=1.ToString()%>"   class="btn btn-primary">Eliminar</a>
+                     <a href="Productos.aspx?" class="btn btn-primary">Volver al catálogo</a>
                    <%-- <asp:Button runat="server" ID="btnEliminar" CssClass="btn btn-primary" Text="Eliminar Item" OnClick="EliminarItem(<%=item.%>)"/>--%>
                      <%--<asp:Button CommandArgument=<%item.ID%>runat="server" ID="btnEliminar" CssClass="btn btn-primary" Text="Eliminar Item" OnClick="EliminarItem(<%=item.%>)"/>--%>
                 </td>
@@ -87,6 +88,10 @@
 
             <% } %>
         </table>
+
+        <asp:Label Text="Cantidad de artículos: " ID="lblCantidadFinal" runat="server" /> 
+     <br />
+    <asp:Label Text="IMporte acumulado: $ " ID="lblImporteFinal" runat="server" /> 
  </div>
 
  

@@ -13,7 +13,7 @@ namespace Web_App
     public partial class Formulario_web1 : System.Web.UI.Page
     {
 
-        public List<Articulo> Lista; /*necesita el public antes*/
+        public List<Articulo> ListaProductos; /*necesita el public antes*/
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -22,9 +22,9 @@ namespace Web_App
             
             try
             {
-                Lista = Productos.Listar();
+                ListaProductos = Productos.Listar();
 
-                Session.Add("Productos", Lista); /*la Lista de Listar, se guarda en el session con el nombre Productos*/
+                Session.Add("ListaProductos", ListaProductos); /*la Lista de Listar, se guarda en el session con el nombre Productos*/
             }
             catch (Exception ex)
             {

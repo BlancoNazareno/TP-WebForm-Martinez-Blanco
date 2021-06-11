@@ -116,3 +116,15 @@ E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\ref\Catalogo.dll
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.pdb
 E:\tercerCuatrimestre\TP_con_NAZA\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.genruntimeconfig.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csprojAssemblyReference.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Agregar.resources
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Form1.resources
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.Properties.Resources.resources
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.GenerateResource.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.AssemblyInfoInputs.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.AssemblyInfo.cs
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\ref\Catalogo.dll
+C:\Users\nazab\Desktop\UTN\Programación III\Progra2021\Repos_GitHub\WebForm\TP-WebForm-Martinez-Blanco\Catalogo\obj\Debug\net5.0-windows\Catalogo.pdb
