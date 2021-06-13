@@ -25,18 +25,22 @@
             </div>
 
         </nav>
+        
     </header>
     <h1>Aqui productos-cambio</h1>
-
+    <form runat="server">
+        <asp:TextBox ID="txt_buscar" OnClick="btnBuscar" placeholder="Buscar Cositas" runat="server"></asp:TextBox> <%--Texbox para buscar pero no busca--%>
+    </form>
+    
     <%--aca el producto seleccionado en detalle logica del codigo en menu contextual y "darle a ver codigo" --%>
 
 
     <div class="container">
         <div class="row">
+            
             <%
-                if (((List<Dominio2.Articulo>)Session["ListaProductos"]).Count() == 0)
-                {
-                    foreach (Dominio2.Articulo item in ListaProductos)
+            if (ListaProductos != null) {%> 
+                   <%foreach (Dominio2.Articulo item in ListaProductos)
                     {%>
             <div class="col">
                 <div class="card" style="width: 18rem;">
@@ -44,35 +48,17 @@
                     <div class="card-body">
                         <h5 class="card-title"><% = item.Nombre %></h5>
                         <p class="card-text"><% = item.Descripcion %></p>
-                        <a href="DetalleProducto.aspx?ID= <%= item.ID.ToString() %>" class="btn btn-primary">Detalle Producto</a>
-                        <a href="Carrito.aspx?ID= <%= item.ID.ToString() %>" class="btn btn-primary">Agregar al carrito</a> <%--con este boton deberiamos poder añadir al carro las cosas (agregar funcionalidad)--%>
+                        <a href="DetalleProducto.aspx?ID=<%= item.ID.ToString() %>" class="btn btn-primary">Detalle Producto</a>
+                        <a href="Carrito.aspx?ID=<%= item.ID.ToString() %>" class="btn btn-primary">Agregar al carrito</a> <%--con este boton deberiamos poder añadir al carro las cosas (agregar funcionalidad)--%>
                         <%-- <asp:Button Text:"Agregar al carrito" ID="btnAgregar" OnClick="btnAgregar_click" runat="server" /> --%>
                     </div>
                 </div>
             </div>
-            <%}
-
-                }
-                else
-                {
-                    foreach (Dominio2.Articulo item in ((List<Dominio2.Articulo>)Session["ListaProductos"]))
-                    {%>
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="<% = item.ImgURL %>" class="card-img-top" alt="Error_Carga_codigo + <% = item.Codigo %>">
-                    <div class="card-body">
-                        <h5 class="card-title"><% = item.Nombre %></h5>
-                        <p class="card-text"><% = item.Descripcion %></p>
-                        <a href="DetalleProducto.aspx?ID= <%= item.ID.ToString() %>" class="btn btn-primary">Detalle Producto</a>
-                        <a href="Carrito.aspx?ID= <%= item.ID.ToString() %>" class="btn btn-primary">Agregar al carrito</a> <%--con este boton deberiamos poder añadir al carro las cosas (agregar funcionalidad)--%>
-                        <%-- <asp:Button Text:"Agregar al carrito" ID="btnAgregar" OnClick="btnAgregar_click" runat="server" /> --%>
-                    </div>
-                </div>
-            </div>
-            <%}
-                }%>
-        </div>
+            <%}%>
+           <%}%>
+                   </div>
     </div>
+ 
 
 <%--            //<form id="from" runat="server">
             //<asp:GridView id="dgvProductos" runat="server"></asp:GridView

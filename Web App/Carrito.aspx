@@ -89,7 +89,7 @@
             <% } %>
         </table>
 
-        <asp:Label Text="Cantidad de artículos: " ID="lblCantidadFinal" runat="server" /> 
+        <asp:Label Text="Cantidad de artículos: " ID="lblCantidadFinal" runat="server" />
      <br />
     <asp:Label Text="IMporte acumulado: $ " ID="lblImporteFinal" runat="server" /> 
  </div>

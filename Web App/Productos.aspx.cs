@@ -32,6 +32,11 @@ namespace Web_App
                 Session.Add("Error",ex.ToString());  /*el error ex se guarda en session, con el nombre Error*/
                 Response.Redirect("Error.aspx");
             }
+
+        }
+        public void btnBuscar(object sender, EventArgs e)
+        {
+            
         }
     }
 }

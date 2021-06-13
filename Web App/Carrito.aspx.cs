@@ -51,7 +51,7 @@ namespace Web_App
 
             else if (idAux == 0)                /*  -> para cuando ingresa al carrito sin añadir productos, sólo para ver los productos cargados*/
             {
-                if (Session["ListadCarrito"] == null)               /* -> si no hay instancia de la lista*/
+                if (Session["ListaCarrito"] == null)               /* -> si no hay instancia de la lista*/
                 {
                     ListaCarrito = new List<Articulo>();
                     Session["ListaCarrito"] = ListaCarrito;
@@ -60,6 +60,18 @@ namespace Web_App
                 else
                 {
                     ListaCarrito = (List<Articulo>)Session["ListaCarrito"];
+                    foreach (Articulo item in ListaCarrito)
+                    {
+                        carritoAux.ImporteFinal += item.Precio;
+                        carritoAux.CantidadFinal++;
+                        Session.Add("ImporteFinal", carritoAux.ImporteFinal);
+                        if (Session[Session.SessionID + "ImporteFinal"] != null)
+                        {
+                            carritoAux.ImporteFinal = (int)Session[Session.SessionID + "ImporteFinal"];//
+                        }
+                    }
+                    lblCantidadFinal.Text += (carritoAux.CantidadFinal);
+                    lblImporteFinal.Text += (carritoAux.ImporteFinal);
                 }
 
 
@@ -95,6 +107,12 @@ namespace Web_App
                 {
                     carritoAux.ImporteFinal += item.Precio;
                     carritoAux.CantidadFinal++;
+                    Session.Add("ImporteFinal",carritoAux.ImporteFinal);
+                    if(Session[Session.SessionID + "ImporteFinal"] != null)
+                    {
+                        carritoAux.ImporteFinal = (int)Session[Session.SessionID + "ImporteFinal"];
+                    }
+                    
                 }
                 lblCantidadFinal.Text += (carritoAux.CantidadFinal);
                 lblImporteFinal.Text += (carritoAux.ImporteFinal);
